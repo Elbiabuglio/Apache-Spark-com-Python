@@ -63,7 +63,7 @@ Focaremos no uso do MLlib do Spark para implementar modelos de Machine Learning 
 ### 📌 Como utilizar este repositório
 
 1. Clone o repositório:
-git clone https://github.com/Elbiabuglio/Apache-Spark-com-Python/tree/main
+git clone https://github.com/Elbiabuglio/Apache-Spark-com-Python
 
 2. Instale as dependências necessárias (se houver)
 
