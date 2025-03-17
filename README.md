@@ -67,3 +67,6 @@ git clone https://github.com/Elbiabuglio/Apache-Spark-com-Python
 
 2. Instale as dependências necessárias (se houver)
 
+ ## Licença
+Este projeto está sob a licença MIT. Para mais detalhes, consulte o arquivo LICENSE.
+
